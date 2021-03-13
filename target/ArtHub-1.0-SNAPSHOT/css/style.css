@@ -1,7 +1,15 @@
 body{
-    background: blanchedalmond!important;
+    background: #eoc1b3!important;
 }
 
 .custom-bg{
-    background: plum!important;
+    background: #846267!important;
+}
+
+.button-bg{
+    background:#eoc1b3!important;
+}
+
+.button-txt{
+    color: cornflowerblue!important;
 }
