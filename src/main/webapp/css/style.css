@@ -1,15 +1,30 @@
-body{
-    background: #eoc1b3!important;
-}
+
 
 .custom-bg{
     background: #846267!important;
 }
 
-.button-bg{
-    background:#eoc1b3!important;
+
+.register-button-custom{
+    color: #80b192!important;
+    background:white!important;
+    border-color: #80b192!important;
 }
 
-.button-txt{
-    color: cornflowerblue!important;
+.register-button-custom:hover{
+    color: white!important;
+    background:#80b192!important;
+    border-color: white!important;
+}
+
+.reset-button-custom{
+    color: #c37d92!important;
+    background:white!important;
+    border-color: #c37d92!important;
+}
+
+.reset-button-custom:hover{
+    color: white!important;
+    background:#c37d92!important;
+    border-color: white!important;
 }
