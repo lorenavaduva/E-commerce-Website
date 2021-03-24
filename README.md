@@ -1,3 +1,4 @@
 # E-commerce-Website
 
-Implemented an E-commerce Website for an art print store.
+Created an E-commerce Website for an art print store, using Java, Javascript, HTML, CSS and for MySQL for the data base.
+
